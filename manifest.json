@@ -1,0 +1,16 @@
+
+{
+  "name": "Estoque de Lanches",
+  "short_name": "Estoque",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#4E085C",
+  "theme_color": "#4E085C",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
