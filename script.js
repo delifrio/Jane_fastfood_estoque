@@ -21,7 +21,7 @@ const descartaveis = [
     "Tampa de suco", "Luva descartável", "Copo de sorvete", "Bolsa P", "Bolsa M",
     "Saco de lixo", "Saco azul", "Bolsa para colher", "Tampa de hamburgueira", 
     "Palito", "Canudo", "Bolsa para tapioca", "Forminhas de papel para coxinha",
-    "Forminhas de papel para docinhos", "Colher de café", "Papel toalha", "Embalagem de papel pequeno", "Embalagem de papel grande"
+    "Forminhas de papel para docinhos", "Colher de café", "Papel toalha", "Embalagem de papel pequeno", "Embalagem de papel grande", "guardanapo"
 ];
 
 document.addEventListener("DOMContentLoaded", () => {
