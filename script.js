@@ -17,7 +17,7 @@ const lanches = [
 
 const descartaveis = [
     "Hamburguera de 300", "Hamburguera de 500", "Hamburguera grande",
-    "Colher", "Faca descartável", "Colher descartável", "Copo de água descartável",
+    "Garfo Descartável", "Faca descartável", "Colher descartável", "Copo de água descartável",
     "Copo para suco descartável", "Copo de café pequeno", "Copo de isopor de café",
     "Tampa de suco", "Luva descartável", "Copo de sorvete", "Bolsa P", "Bolsa M",
     "Saco de lixo", "Saco azul", "Bolsa para colher", "Tampa de hamburgueira", 
