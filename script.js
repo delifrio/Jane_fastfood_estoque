@@ -11,7 +11,7 @@ const lanches = [
     "Torta crocante", "Torta bem casado", "Torta chocolate", "Torta prestígio",
     "Cola coca 1 litro", "Coca cola zero lata", "Coca cola lata", "Coca de 500 ml",
     "Coca de 500 zero", "Guarana de 1 litro", "Guarana zero lata", "Guarana lata", 
-    "Sprit", "Fanta lata", "H20 limonete", "H20", "Água mineral", "Água com gás", "ketchup", "Maioneze", "Mostarda", "Sal", "Açucar", "Leite", "Gelatines banana", "Amoras", "Cobrinhas cítricas", "Granulado chocolate", "Gotas de chocolate", "M&M", "Jazam coloreti", "Jujuba", "Nutella", "Farinha láctea", "Caldas", "Morango", "Chocolate", "Kiwi", "Amora", "Frutas vermelhas", "Leite condensado", "Mel de abelha", "Mel de engenho", "Café em grãos", "Achocolatado Alpino", "Nescau", "Capuccino", "Achocolatado dois frades"
+    "Sprit", "Fanta lata", "H20 limonete", "H20", "Água mineral", "Água com gás", "ketchup", "Maioneze", "Mostarda", "Sal", "Açucar", "Leite", "Gelatines banana", "Amoras", "Cobrinhas cítricas", "Granulado chocolate", "Gotas de chocolate", "M&M", "Jazam coloreti", "Jujuba", "Nutella", "Farinha láctea", "Caldas", "Morango", "Chocolate", "Kiwi", "Amora", "Frutas vermelhas", "Leite condensado", "Mel de abelha", "Mel de engenho", "Café em grãos", "Achocolatado Alpino", "Nescau", "Capuccino", "Achocolatado dois frades",
     "Empada de charque", "Empada de Camarão", "Empada de Frango", "Creme de frango"
 ];
 
